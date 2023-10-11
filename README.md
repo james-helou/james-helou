@@ -1,4 +1,4 @@
-### Hi there, I'm [James!](www.linkedin.com/in/james-helou) 👋
+### Hi there, I'm [James!](https://www.linkedin.com/in/james-helou) 👋
 <a href="https://jadhaddad.com">
     <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
