@@ -9,12 +9,11 @@
 <br />
 <br />
 
-I'm a computer engineering student at the University of Ottawa.
+I'm a Software Engineering Co-op student at the McGill University.
 
-- 🔭 I’m currently working on a [Snake AI](https://github.com/jadhaddad01/SnakeAI)
-- 🌱 I’m currently learning Flutter & Dart
-- 🥅 My goal this year is to contribute to Open Source projects
-- 👨‍💻 Actively looking for 2022 Entry-level employment
+- 🔭 I’m currently learning Python and Java
+- 🥅 My goal this year is to estbalish a GitHub presence and refine my skills.
+- 👨‍💻 Actively looking for Co-op Internships
 
 **Languages and Tools:**  
 <details>
