@@ -11,7 +11,7 @@ I’m a Software Engineering Co-op student at McGill University (GPA: 3.92) with
 - Certified in **Azure AI** and **Databricks Fundamentals**
 - Trilingual: English, French, Arabic
 
-## Selected Experience
+## Experience
 **Machine Learning & Data Engineering Intern — Avanade** *(May 2025 – Present)*  
 - Developed AI workflows with Autogen to streamline logistics and reduce costs  
 - Optimized PySpark pipelines and SQL queries for large aerospace datasets  
