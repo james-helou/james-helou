@@ -1,8 +1,4 @@
-### Hi there, I'm [James!](https://www.linkedin.com/in/james-helou) 👋
 
-
-<br />
-<br />
 
 # Hi, I'm [James!](https://www.linkedin.com/in/james-helou) 👋
 
