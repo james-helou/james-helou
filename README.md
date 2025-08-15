@@ -4,7 +4,7 @@
 <br />
 <br />
 
-# Hi, I'm James Helou
+# Hi, I'm [James!](https://www.linkedin.com/in/james-helou) 👋
 
 I’m a Software Engineering Co-op student at McGill University (GPA: 3.92) with internship experience in **machine learning, data engineering, and software development**. I enjoy building impactful, data-driven solutions and applying emerging technologies to real-world problems.
 
